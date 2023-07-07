@@ -1,7 +1,9 @@
 numpy
 matplotlib
 plotly
+
 nbformat
+
 pandas
 pillow
 streamlit
@@ -10,4 +12,7 @@ pyqt6
 dputils
 opencv-contrib-python
 pysimplegui
+
 openpyxl
+
+statsmodels
